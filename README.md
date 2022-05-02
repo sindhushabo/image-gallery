@@ -6,8 +6,8 @@ Application:
 - displays random images from the browser (couldn't find an API that gives 50 images).
 - 10 images per page. the pagination is displayed at the bottom of the images.
 - can be navigated through number on the pagination bar.
-- << - goes to the first page
-- >> - goes to the last page
+- '<<' - goes to the first page
+- '>>' - goes to the last page
 - works for all sizes of screens
 - when click on an image, it will be presentd on a modal
 - when click any place away, closes the image
